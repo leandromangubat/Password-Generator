@@ -18,3 +18,4 @@ The resulting generated password will be printed in the dotted box.
 
 ## Links
 
+https://leandromangubat.github.io/Password-Generator/
