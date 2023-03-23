@@ -43,9 +43,15 @@ userPass = confirm("Your password has the following criteria: " + criteria +  ".
     if (userPass){
       userPass = userPass.toString().replace(/true|false/, ""); 
       userPass += chars[randomPass];}
+      else if (!userPass){
+        userPass = "Please Try Again";
+        break;
+      }
   }
-
+  
   return userPass;
+
+
 } 
 
 
