@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Purpose
-
+### sample text
 This project is used to generate a password based on criterias selected by the user
 
 ## Usage
